@@ -21,7 +21,7 @@ namespace UwU
         }
         private void SI_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ya sabía que querias ser mi novia jiji :3", "Uwu");
+            MessageBox.Show("Ya sabía que querias ser mi novia :3", "Uwu");
             Environment.Exit(0);
         }
     }
